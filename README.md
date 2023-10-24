@@ -1,16 +1,10 @@
-# responsive_design
+# Responsive Design Example
 
-A new Flutter project.
+responding to the width of the device the app running
 
-## Getting Started
+## Screenshot
+![Screenshot_1698134698](https://github.com/merihcavdar/responsive_design/assets/84540989/1e3796fc-83a5-40d0-8250-9a27c0bad9a0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- LayoutBuilder
+- MediaQuery.of(context).size.width
